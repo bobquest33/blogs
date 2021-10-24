@@ -70,5 +70,4 @@ I was able to delete the unused vhdx files from C drive and save significant amo
 ## Reference
 - [Docker: How to delete all local Docker images](https://stackoverflow.com/questions/44785585/docker-how-to-delete-all-local-docker-images)
 - [Change Docker native images location on Windows 10 Pro](https://stackoverflow.com/questions/40465979/change-docker-native-images-location-on-windows-10-pro)
-- [how to move the vhdx of wsl2 to other disk]([https://github.com/MicrosoftDocs/WSL/issues/412](https://github.com/MicrosoftDocs/WSL/issues/412))
--
+- [how to move the vhdx of wsl2 to other disk](https://github.com/MicrosoftDocs/WSL/issues/412)
