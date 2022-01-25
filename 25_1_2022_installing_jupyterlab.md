@@ -4,7 +4,7 @@
 
 ## Background
 
-I have been trying to find a suitable Web IDE for my projects which I can use directly from browser. I found some websites and some truly cloud IDEs but nothing that can run out of docker on my PC or on aspberry pi.
+I have been trying to find a suitable Web IDE for my projects which I can use directly from browser. I found some websites and some truly cloud IDEs but nothing that can run out of docker on my PC or on Raspberry pi.
 
 Some examples of popular pure cloud IDEs are: 
 - ShiftEdit
