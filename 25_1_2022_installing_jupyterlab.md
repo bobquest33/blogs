@@ -1,4 +1,4 @@
-# Setting Jupyter Lab With Docker & Raspberry Pi 4
+# Setting JupyterLab With Docker & Raspberry Pi 4
 
 *Date: 25-Jan-2022*
 
