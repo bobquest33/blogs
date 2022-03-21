@@ -1,5 +1,7 @@
 # Solving a Sorting Problem in Python
 
+_19-Mar-2022_
+
 ## Background
 
 As part of an interview question I got a sorting problem, where I was supposed to reverse sort a list of numbers using python without using the Python internal functions. I was unable to implement it in the given time and also realized how weak I am in basic Data Structures & Algorithms.
@@ -197,8 +199,3 @@ As I have noted earlier, the use of max_index and searching through a list is no
 ## Finally
 
 From this quick exercise I not only learnt how knowing various sorting methods are important but also depending on the situation to judge which sorting logic may work for the given idea. I am sure I have to learn a lot but this a starting journey after which I am sure I will learn various sorting and searching algorithms which will ultimately benefits me.
-
-
-```python
-
-```
